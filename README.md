@@ -1,6 +1,6 @@
 # Information-Theoretic HCFIM Geometry for Data-Limited EEG Screening
 
-Reproducible Jupyter notebooks supporting the study **“Information-Theoretic HCFIM Geometry for Data-Limited EEG Screening of Alzheimer’s Disease and Frontotemporal Dementia.”**
+Reproducible Jupyter notebooks supporting the study **“Information-Theoretic HCFIM Geometry for Data-Limited EEG Screening of Alzheimer’s Disease and Frontotemporal Dementia.”** Author Hector Rojas-Pescio.
 
 The workflow maps resting-state EEG signals into entropy–complexity–Fisher information (HCFIM) coordinates and evaluates regional, lateralized, spectral, classification, robustness, and sensitivity analyses at the participant level.
 
